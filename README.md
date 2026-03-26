@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Pedro Henrique
 
-<!--
-**PedroHFP04/PedroHFP04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
+💻 Foco em desenvolvimento de sistemas e banco de dados
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolvimento backend, automação e sistemas aplicados à indústria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projetos em destaque
+
+
+---
+
+## 🛠️ Tecnologias
+
+* Python
+* MongoDB
+* Java
+* Git e GitHub
+* Lógica de programação
+* Programação Orientada a Objetos
+
+---
+
+## 📫 Contato
+
+* LinkedIn: 
+* Email: 
