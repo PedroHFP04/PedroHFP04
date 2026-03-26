@@ -22,6 +22,19 @@ Sistema desenvolvido utilizando Programação Orientada a Objetos inspirado no S
 * Desenvolvimento de testes unitários para garantir a confiabilidade das funcionalidades
 * Aplicação de conceitos de Programação Orientada a Objetos (POO) na estrutura do sistema
 
+### 📊 Projeto de Ciência de Dados com Python
+
+🔗 https://github.com/luizOtpaiva/Projeto-Ciencia-de-Dados-com-thon
+
+📌 Descrição:
+Projeto focado em análise exploratória de dados, com o objetivo de responder perguntas e extrair insights a partir de um conjunto de dados.
+
+👨‍💻 Minha contribuição:
+
+* Realização de análise exploratória de dados (EDA) para responder perguntas definidas no projeto
+* Interpretação dos resultados e identificação de padrões nos dados
+* Geração de insights a partir das análises realizadas
+
 ---
 
 ## 🛠️ Tecnologias
