@@ -35,6 +35,28 @@ Projeto focado em análise exploratória de dados, com o objetivo de responder p
 * Interpretação dos resultados e identificação de padrões nos dados
 * Geração de insights a partir das análises realizadas
 
+### 🧾 Gerenciador de Pedidos
+
+🔗 https://github.com/PedroHFP04/GerenciadorPedidos
+
+📌 Descrição:
+Sistema de gerenciamento de pedidos desenvolvido em Java, com foco na aplicação de testes unitários para validação das regras de negócio.
+
+⚙️ Funcionalidades:
+
+* Cadastro e gerenciamento de pedidos
+* Modelagem do sistema utilizando Programação Orientada a Objetos
+* Implementação de testes unitários para garantir a confiabilidade das funcionalidades
+
+🛠️ Tecnologias:
+
+* Java
+* Programação Orientada a Objetos (POO)
+* JUnit
+
+👨‍💻 Destaque:
+Desenvolvido individualmente com ênfase em qualidade de código, testes automatizados e organização da lógica de negócio.
+
 ---
 
 ## 🛠️ Tecnologias
