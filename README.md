@@ -9,6 +9,18 @@ Tenho interesse em desenvolvimento backend, automação e sistemas aplicados à 
 
 ## 🚀 Projetos em destaque
 
+### ⚽ Sistema estilo SofaScore (POO)
+
+🔗 https://github.com/Leandrotxr/poorSofaScore
+
+📌 Descrição:
+Sistema desenvolvido utilizando Programação Orientada a Objetos inspirado no SofaScore, com foco na modelagem de dados esportivos e organização em camadas.
+
+👨‍💻 Minha contribuição:
+
+* Implementação da lógica de negócio na camada de *services*
+* Desenvolvimento de testes unitários para garantir a confiabilidade das funcionalidades
+* Aplicação de conceitos de Programação Orientada a Objetos (POO) na estrutura do sistema
 
 ---
 
